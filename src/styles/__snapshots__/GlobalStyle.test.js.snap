@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+@media (min-width:1200px) {
+
+}
+
+@media (min-width:1200px) {
+
+}
+
+@media (min-width:1200px) {
+
+}
+
+@media (min-width:1200px) {
+
+}
+
+@media (min-width:1200px) {
+
+}
+
+@media (min-width:1200px) {
+
+}
+
+<head />
+`;
