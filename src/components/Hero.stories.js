@@ -5,6 +5,7 @@ import Hero from "./Hero";
 import CarImage from "../stories/assets/car-1835506_1280.jpg";
 import BuildingImage from "../stories/assets/buildings-1851246_1280.jpg";
 import Heading from "./Heading";
+import Button from "./Button";
 
 export default {
   title: "Hero",
@@ -28,6 +29,9 @@ export const withList = () => (
       <li>Adipisicing in ut duis commodo adipisicing exercitation.</li>
       <li>Ipsum ullamco do ad officia ex excepteur consequat pariatur.</li>
     </ul>
+    <Button color="primary" variant="outlined">
+      Matricule-se Agora
+    </Button>
   </Hero>
 );
 
